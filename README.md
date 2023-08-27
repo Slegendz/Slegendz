@@ -1,6 +1,7 @@
-### Hi there 👋
+![225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9](https://github.com/Slegendz/Slegendz/assets/108775767/1ae34827-ddd6-4066-9d0c-fa450ed2cb96)
 
-![programmer-programming](https://github.com/Slegendz/Slegendz/assets/108775767/2dff9eb8-d500-4e3d-b22a-24d913977eb3)
+### Hi there 👋 
+
 
 - 📫 How to reach me: Follow me on Linkedin😎
 - ⚡ Fun fact: I appreciate you.
