@@ -2,8 +2,8 @@
 
 <h1 align = "center"> Hi there 👋 </h1>
 
--🌱 I’m currently learning Data structures and Algrorithms.
-- 📫 How to reach me: Follow me on Linkedin😎
+- 🌱 I’m currently learning Data structures and Algrorithms.
+- 📫 How to reach me: Follow me on Linkedin
 - ⚡ Fun fact: I appreciate you.
 
 
