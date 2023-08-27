@@ -1,5 +1,5 @@
-<image-crop src = "https://github.com/Slegendz/Slegendz/assets/108775767/1ae34827-ddd6-4066-9d0c-fa450ed2cb96" rounded></image-crop>
-<image-crop src="https://github.com/Slegendz/Slegendz/assets/108775767/1ae34827-ddd6-4066-9d0c-fa450ed2cb96"></image-crop>
+![ezgif com-crop](https://github.com/Slegendz/Slegendz/assets/108775767/9ab8a9a6-4ca8-4fe4-9f35-24816e5096a5)
+
 <h1 align = "center"> Hi there 👋 </h1>
 
 
